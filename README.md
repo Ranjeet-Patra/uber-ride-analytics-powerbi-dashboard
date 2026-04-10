@@ -1,6 +1,7 @@
 # uber-ride-analytics-powerbi-dashboard
 Interactive Power BI dashboard analyzing ride funnel, conversion, cancellations and revenue insights
 
+## Dashboard Link : https://app.powerbi.com/groups/me/reports/438a686d-a8d7-4949-ab85-5e8908a39414?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare
 
 ### 🔹 Overview & KPI Monitoring
 
