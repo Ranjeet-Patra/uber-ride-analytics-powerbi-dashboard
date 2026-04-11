@@ -52,3 +52,21 @@ Interactive Power BI dashboard analyzing ride funnel, conversion, cancellations 
 * Enables optimization of pricing, vehicle allocation and operations
 * Supports data-driven decision-making through real-time insights
 * Improves understanding of user behavior and service performance
+
+### 🔗 Demo / Preview
+
+<img width="1426" height="715" alt="image" src="https://github.com/user-attachments/assets/c97c764f-7c34-426c-81f2-4d44dd392a81" />
+
+<img width="1307" height="727" alt="image" src="https://github.com/user-attachments/assets/5bf989ac-5efa-459d-aabc-a85c52aa7ad1" />
+
+<img width="1303" height="732" alt="image" src="https://github.com/user-attachments/assets/a640a73b-244b-444d-bcc3-e31cb6bb1b29" />
+
+<img width="1293" height="722" alt="image" src="https://github.com/user-attachments/assets/c10843b4-0d22-42fd-a761-a14ec0896292" />
+
+<img width="1300" height="725" alt="image" src="https://github.com/user-attachments/assets/8af15091-a65e-4b2d-a667-fac52587f370" />
+
+<img width="1294" height="726" alt="image" src="https://github.com/user-attachments/assets/0c0ec604-f5e4-4876-8d27-27f8dc5b5982" />
+
+
+
+
